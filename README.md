@@ -40,6 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jackvini19/jackvini19/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/jackvini19/jackvini19/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
