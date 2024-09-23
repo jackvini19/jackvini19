@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Crio bugs desde 2021<br><br>📚 Atualmente, estou aprendendo  Flutter, Java, React e JavaScript<br>🎯 Objetivos: Construir aplicações web inovadoras e amigáveis que melhorem a experiência do usuário<br>🎲 Fato curioso: Sou apaixonado por pedalar e assistir animes!</p>
+<h2 align="left">✨ Crio bugs desde 2021<br><br>📚 Atualmente, estou aprendendo  Flutter, Java, React e JavaScript<br>🎯 Objetivos: Construir aplicações web inovadoras e amigáveis que melhorem a experiência do usuário<br>🎲 Fato curioso: Sou apaixonado por pedalar e assistir animes!</h2>
 
 ###
 
