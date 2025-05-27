@@ -1,8 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
+<h1 align="left">👋 Olá, eu sou Jack Vinícius!</h1>
+<h1 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas</h1>
+<h1 align="left">💻 Analista de Sistemas | Entusiasta de Tecnologia</h1>
+<h1 align="left">🌍 Em busca de oportunidades internacionais na área de TI</h1>
 ###
 
-<p align="left">Olá, eu sou Jack Vinícius!<br>Sou um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em Banco de dados e Infraestrutura e Analise de Sistemas, estou sempre buscando aprender e aplicar novas habilidades em projetos desafiadores.<br><br>Estou sempre à procura de colaborar em novos projetos e contribuir para a comunidade de desenvolvedores.<br><br>Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
+<p align="left">Sou um profissional apaixonado por tecnologia e inovação, com experiência prática em **infraestrutura**, **banco de dados** e **análise de sistemas**. Gosto de transformar problemas complexos em soluções eficientes, sempre com foco em performance, clareza e resultado.
+</p>
 
 ###
 
@@ -10,10 +13,16 @@
 
 ###
 
-<h2 align="left">✨ Crio bugs desde 2021<br>📚 Atualmente, estou aprendendo  Flutter, Java, React e JavaScript<br>🎯 Objetivos: Construir aplicações web inovadoras e amigáveis que melhorem a experiência do usuário<br>🎲 Fato curioso: Sou apaixonado por pedalar e assistir animes!</h2>
+<h2 align="left">✨ Crio bugs desde 2021<br>Atualmente estou aprimorando minhas habilidades em áreas como:
+- 🔧 Arquitetura de Sistemas
+- 🛠️ Redes e Segurança
+- 🗃️ SQL e Modelagem de Dados
+- 🌐 Desenvolvimento de aplicações e automações
+
+Estou aberto a colaborar em projetos desafiadores, especialmente com foco em **inovação, automação e soluções escaláveis** — seja no Brasil ou no exterior.</h2>
 
 ###
-
+<h1 align="left"><h1 align="left"></h1></h1>
 <h2 align="left">I code with</h2>
 
 ###
