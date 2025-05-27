@@ -20,7 +20,7 @@
 Estou aberto a colaborar em projetos desafiadores, especialmente com foco em **inovação, automação e soluções escaláveis** — seja no Brasil ou no exterior.</h2>
 
 ###
-<h1 align="left">🚀 Sempre pronto para o próximo desafio!<h1 align="left">
+<h1 align="left">🚀 Sempre pronto para o próximo desafio!</h1>
 <h2 align="left">I code with</h2>
 
 ###
