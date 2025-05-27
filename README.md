@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, eu sou Jack Vinícius!<br>Sou um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em programação e desenvolvimento de software, estou sempre buscando aprender e aplicar novas habilidades em projetos desafiadores.<br><br>Estou sempre à procura de colaborar em novos projetos e contribuir para a comunidade de desenvolvedores.<br><br>Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
+<p align="left">Olá, eu sou Jack Vinícius!<br>Sou um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em Banco de dados e Infraestrutura e Analise de Sistemas, estou sempre buscando aprender e aplicar novas habilidades em projetos desafiadores.<br><br>Estou sempre à procura de colaborar em novos projetos e contribuir para a comunidade de desenvolvedores.<br><br>Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
 
 ###
 
